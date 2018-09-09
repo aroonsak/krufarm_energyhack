@@ -1,0 +1,77 @@
+[
+	{
+		"farmerId": 1,
+		"latitude": 14.1101999,
+		"longitude": 100.6610031
+	},
+	{
+		"farmerId": 2,
+		"latitude": 14.1043997,
+		"longitude": 100.6579971
+	},
+	{
+		"farmerId": 3,
+		"latitude": 14.1046,
+		"longitude": 100.6620026
+	},
+	{
+		"farmerId": 4,
+		"latitude": 14.1030998,
+		"longitude": 100.6589966
+	},
+	{
+		"farmerId": 5,
+		"latitude": 14.1016998,
+		"longitude": 100.6600037
+	},
+	{
+		"farmerId": 6,
+		"latitude": 14.1008997,
+		"longitude": 100.6620026
+	},
+	{
+		"farmerId": 7,
+		"latitude": 14.1020002,
+		"longitude": 100.6549988
+	},
+	{
+		"farmerId": 8,
+		"latitude": 14.1026001,
+		"longitude": 100.6569977
+	},
+	{
+		"farmerId": 9,
+		"latitude": 14.099,
+		"longitude": 100.6620026
+	},
+	{
+		"farmerId": 10,
+		"latitude": 14.0992002,
+		"longitude": 100.6549988
+	},
+	{
+		"farmerId": 11,
+		"latitude": 14.0977001,
+		"longitude": 100.6620026
+	},
+	{
+		"farmerId": 12,
+		"latitude": 14.0958996,
+		"longitude": 100.6589966
+	},
+	{
+		"farmerId": 13,
+		"latitude": 14.1044998,
+		"longitude": 100.6559982
+	},
+	{
+		"farmerId": 14,
+		"latitude": 14.1077995,
+		"longitude": 100.663002
+	},
+	{
+		"farmerId": 15,
+		"latitude": 14.1063995,
+		"longitude": 100.663002
+	}
+]

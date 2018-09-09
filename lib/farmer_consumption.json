@@ -1,0 +1,902 @@
+[
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 240
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 390
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 245
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 240
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 329
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 203
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 368
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 383
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 219
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 490
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 499
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 488
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 491
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 226
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-01-31",
+		"energyConsumption": 242
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 448
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 399
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 222
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 220
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 421
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 245
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 395
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 209
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 499
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 344
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 279
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 228
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 418
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 334
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-02-28",
+		"energyConsumption": 265
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 373
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 340
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 242
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 478
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 445
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 217
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 448
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 495
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 427
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 427
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 233
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 204
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 209
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 264
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-04-30",
+		"energyConsumption": 416
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 344
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 384
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 405
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 378
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 279
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 480
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 342
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 339
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 481
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 350
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 401
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 340
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 304
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 227
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-08-31",
+		"energyConsumption": 411
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 444
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 472
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 312
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 285
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 248
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 421
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 473
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 342
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 391
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 239
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 476
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 213
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 292
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 433
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-07-31",
+		"energyConsumption": 263
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 360
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 380
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 287
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 380
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 394
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 299
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 413
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 382
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 322
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 486
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 311
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 222
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 427
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 268
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-06-30",
+		"energyConsumption": 423
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 314
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 303
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 365
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 247
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 495
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 447
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 278
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 340
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 445
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 488
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 359
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 498
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 478
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 488
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-03-31",
+		"energyConsumption": 391
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 402
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 265
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 202
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 294
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 425
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 477
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 330
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 213
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 325
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 392
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 211
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 447
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 372
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 346
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-05-31",
+		"energyConsumption": 399
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 482
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 215
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 377
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 294
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 429
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 385
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 414
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 392
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 490
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 316
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 357
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 384
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 222
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 448
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-11-30",
+		"energyConsumption": 385
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 318
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 320
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 362
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 443
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 423
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 463
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 238
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 392
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 400
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 224
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 397
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 221
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 241
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 370
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-10-31",
+		"energyConsumption": 411
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 412
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 467
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 309
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 437
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 418
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 252
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 361
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 344
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 324
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 301
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 354
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 491
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 437
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 352
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-09-30",
+		"energyConsumption": 310
+	},
+	{
+		"farmerId": 1,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 428
+	},
+	{
+		"farmerId": 2,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 323
+	},
+	{
+		"farmerId": 3,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 306
+	},
+	{
+		"farmerId": 4,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 339
+	},
+	{
+		"farmerId": 5,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 411
+	},
+	{
+		"farmerId": 6,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 319
+	},
+	{
+		"farmerId": 7,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 298
+	},
+	{
+		"farmerId": 8,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 486
+	},
+	{
+		"farmerId": 9,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 368
+	},
+	{
+		"farmerId": 10,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 481
+	},
+	{
+		"farmerId": 11,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 427
+	},
+	{
+		"farmerId": 12,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 339
+	},
+	{
+		"farmerId": 13,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 298
+	},
+	{
+		"farmerId": 14,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 337
+	},
+	{
+		"farmerId": 15,
+		"dateMonthly": "2017-12-31",
+		"energyConsumption": 272
+	}
+]
